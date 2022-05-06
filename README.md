@@ -1,2 +1,2 @@
-# ejercicios_1
+# Eureka
 Created with CodeSandbox
